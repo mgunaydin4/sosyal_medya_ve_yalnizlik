@@ -1,0 +1,8 @@
+pandas
+matplotlib
+sklearn
+joblib
+warnings
+lightgbm
+seaborn
+streamlit

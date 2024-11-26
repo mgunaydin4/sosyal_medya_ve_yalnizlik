@@ -1,0 +1,231 @@
+,Cinsiyet,Yas,Günlük Sosyal Medya Kullanımı,Kullanılan Sosyal Medya,Sosyal Medyada İlgilenilen İçerik,İnfluencer olma istegi,Son bir haftada kaç gün kendinizi depresif veya moraliniz bozuk hissettiniz?,Kendinizi yalnız hissediyor musunuz,İçerik paylaşma sıklığı,Sosyal medya kullanırken hissedilen duygu
+0,Erkek,23,2.0,Twitter,Eğitim,Hayır,1,Hayır,Nadiren,Diğer
+1,Kadın,21,4.0,Twitter,Eğlence,Hayır,2,Hayır,Nadiren,Kaygı
+2,Kadın,19,4.0,İnstagram,Diğer,Hayır,1,Hayır,Nadiren,Kaygı
+3,Kadın,24,4.5,Tiktok,Eğlence,Hayır,3,Hayır,Hiç,Mutlu
+4,Kadın,24,2.0,Twitter,Haber,Hayır,2,Evet,Nadiren,Diğer
+5,Kadın,22,2.0,İnstagram,Eğlence,Evet,3,Hayır,Sık sık,Mutlu
+6,Kadın,23,3.5,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+7,Erkek,23,4.0,İnstagram,Eğlence,Evet,2,Hayır,Nadiren,Mutlu
+8,Kadın,24,7.0,İnstagram,Eğlence,Hayır,4,Hayır,Nadiren,Kaygı
+9,Kadın,23,5.0,İnstagram,Eğlence,Evet,7,Evet,Nadiren,Kaygı
+10,Erkek,20,4.0,İnstagram,Eğlence,Evet,2,Hayır,Nadiren,Mutlu
+11,Erkek,23,3.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Mutlu
+12,Kadın,20,2.0,İnstagram,Eğlence,Hayır,2,Evet,Hiç,Diğer
+13,Kadın,22,3.0,Twitter,Diğer,Evet,0,Hayır,Sık sık,Mutlu
+14,Erkek,23,3.0,İnstagram,Eğlence,Evet,1,Hayır,Hiç,Mutlu
+15,Erkek,21,3.0,Diğer,Eğlence,Hayır,0,Hayır,Hiç,Diğer
+16,Kadın,21,5.0,İnstagram,Eğlence,Evet,4,Evet,Hiç,Diğer
+17,Kadın,25,2.0,İnstagram,Eğlence,Hayır,2,Hayır,Sık sık,Mutlu
+18,Kadın,22,5.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Kaygı
+19,Kadın,23,5.0,İnstagram,Eğlence,Evet,5,Evet,Sık sık,Yalnızlık
+20,Kadın,22,8.0,İnstagram,Eğlence,Hayır,3,Hayır,Hiç,Diğer
+21,Kadın,22,4.0,Twitter,Eğitim,Evet,2,Hayır,Sık sık,Öfke
+22,Erkek,24,4.0,Twitter,Haber,Hayır,5,Evet,Nadiren,Diğer
+23,Kadın,23,3.0,İnstagram,Eğlence,Evet,3,Hayır,Sık sık,Mutlu
+24,Kadın,23,5.0,İnstagram,Eğlence,Evet,2,Hayır,Nadiren,Mutlu
+25,Kadın,19,3.0,İnstagram,Haber,Hayır,0,Hayır,Nadiren,Mutlu
+26,Erkek,20,8.0,İnstagram,Haber,Hayır,0,Hayır,Nadiren,Diğer
+27,Kadın,24,3.0,İnstagram,Haber,Hayır,1,Hayır,Nadiren,Kaygı
+28,Erkek,18,4.0,Twitter,Eğlence,Hayır,1,Evet,Nadiren,Mutlu
+29,Kadın,21,3.0,Twitter,Eğlence,Evet,2,Hayır,Hiç,Öfke
+30,Kadın,21,3.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+31,Erkek,24,3.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+32,Kadın,19,4.0,Tiktok,Eğlence,Evet,2,Hayır,Sık sık,Diğer
+33,Erkek,24,2.0,Twitter,Haber,Hayır,7,Hayır,Hiç,Diğer
+34,Erkek,20,3.0,Linkedin,Kişisel Gelişim,Hayır,0,Hayır,Nadiren,Diğer
+35,Erkek,23,1.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Diğer
+36,Erkek,22,6.0,İnstagram,Eğlence,Hayır,3,Hayır,Sık sık,Mutlu
+37,Kadın,19,3.5,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Mutlu
+38,Erkek,23,4.0,Twitter,Haber,Evet,2,Hayır,Sık sık,Mutlu
+39,Kadın,23,5.5,İnstagram,Eğlence,Evet,2,Hayır,Sık sık,Diğer
+40,Kadın,23,5.5,İnstagram,Eğlence,Hayır,3,Hayır,Sık sık,Mutlu
+41,Kadın,23,12.0,İnstagram,Eğlence,Evet,3,Hayır,Nadiren,Mutlu
+42,Kadın,23,2.0,Diğer,Eğlence,Hayır,4,Hayır,Nadiren,Diğer
+43,Kadın,23,4.5,İnstagram,Haber,Hayır,7,Hayır,Nadiren,Diğer
+44,Kadın,23,5.0,İnstagram,Eğlence,Evet,1,Hayır,Sık sık,Mutlu
+45,Kadın,22,10.0,İnstagram,Eğlence,Evet,3,Hayır,Sık sık,Mutlu
+46,Kadın,21,6.0,İnstagram,Eğlence,Evet,3,Evet,Hiç,Diğer
+47,Erkek,20,4.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Diğer
+48,Erkek,24,6.0,İnstagram,Eğlence,Evet,4,Hayır,Sık sık,Mutlu
+49,Erkek,23,4.0,Twitter,Eğlence,Hayır,6,Evet,Nadiren,Kaygı
+50,Kadın,23,2.0,İnstagram,Eğlence,Hayır,2,Hayır,Sık sık,Diğer
+51,Erkek,20,4.5,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Mutlu
+52,Kadın,23,5.0,Twitter,Haber,Evet,2,Hayır,Nadiren,Yalnızlık
+53,Erkek,21,10.0,İnstagram,Eğlence,Hayır,7,Evet,Nadiren,Yalnızlık
+54,Erkek,19,4.5,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Mutlu
+55,Erkek,20,7.0,Twitter,Haber,Hayır,7,Evet,Hiç,Öfke
+56,Kadın,20,2.0,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Diğer
+57,Erkek,20,3.0,Tiktok,Eğlence,Hayır,0,Hayır,Hiç,Diğer
+58,Kadın,23,1.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+59,Kadın,23,8.0,Diğer,Kişisel Gelişim,Hayır,4,Hayır,Nadiren,Diğer
+60,Kadın,23,3.0,İnstagram,Eğlence,Evet,4,Hayır,Nadiren,Kaygı
+61,Kadın,20,11.5,İnstagram,Diğer,Hayır,6,Evet,Sık sık,Yalnızlık
+62,Kadın,23,3.0,İnstagram,Eğlence,Evet,2,Evet,Nadiren,Mutlu
+63,Erkek,22,1.0,İnstagram,Haber,Hayır,2,Hayır,Nadiren,Kaygı
+64,Kadın,18,5.0,Tiktok,Eğlence,Hayır,7,Evet,Nadiren,Mutlu
+65,Kadın,20,6.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+66,Erkek,23,2.0,Twitter,Eğitim,Hayır,1,Hayır,Hiç,Diğer
+67,Erkek,22,4.0,Twitter,Eğlence,Hayır,7,Hayır,Nadiren,Mutlu
+68,Erkek,21,3.0,İnstagram,Eğlence,Hayır,3,Evet,Sık sık,Yalnızlık
+69,Erkek,24,2.0,Linkedin,Eğitim,Hayır,1,Hayır,Nadiren,Diğer
+70,Erkek,21,7.0,İnstagram,Eğlence,Hayır,7,Hayır,Sık sık,Mutlu
+71,Erkek,25,1.0,İnstagram,Eğlence,Hayır,5,Evet,Nadiren,Diğer
+72,Erkek,22,4.0,İnstagram,Eğlence,Hayır,7,Hayır,Hiç,Diğer
+73,Kadın,18,4.5,Tiktok,Eğlence,Evet,3,Hayır,Nadiren,Kaygı
+74,Erkek,23,6.0,Twitter,Eğlence,Hayır,0,Hayır,Nadiren,Kaygı
+75,Erkek,20,3.0,Twitter,Haber,Hayır,3,Hayır,Hiç,Diğer
+76,Kadın,18,8.0,Tiktok,Kişisel Gelişim,Evet,4,Hayır,Nadiren,Mutlu
+77,Kadın,19,5.5,İnstagram,Eğlence,Hayır,4,Hayır,Sık sık,Diğer
+78,Erkek,20,5.0,İnstagram,Eğlence,Hayır,5,Evet,Nadiren,Diğer
+79,Erkek,24,3.0,Twitter,Haber,Evet,1,Hayır,Nadiren,Kaygı
+80,Erkek,20,5.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Diğer
+81,Kadın,19,4.0,İnstagram,Eğlence,Evet,1,Hayır,Nadiren,Mutlu
+82,Kadın,22,5.0,Twitter,Diğer,Evet,5,Evet,Sık sık,Diğer
+83,Kadın,21,6.0,Tiktok,Eğlence,Evet,4,Evet,Nadiren,Yalnızlık
+84,Kadın,20,3.0,Tiktok,Eğlence,Hayır,3,Hayır,Nadiren,Mutlu
+85,Kadın,20,5.0,İnstagram,Eğlence,Evet,4,Hayır,Nadiren,Diğer
+86,Kadın,21,2.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+87,Kadın,22,3.0,İnstagram,Kişisel Gelişim,Hayır,3,Hayır,Nadiren,Mutlu
+88,Kadın,21,5.0,İnstagram,Eğlence,Hayır,2,Evet,Nadiren,Mutlu
+89,Kadın,22,3.0,İnstagram,Eğlence,Hayır,4,Evet,Nadiren,Yalnızlık
+90,Kadın,21,8.0,İnstagram,Eğlence,Evet,5,Hayır,Nadiren,Diğer
+91,Kadın,22,4.0,İnstagram,Eğlence,Evet,5,Evet,Nadiren,Yalnızlık
+92,Kadın,21,2.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Diğer
+93,Kadın,20,4.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+94,Kadın,24,3.0,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Öfke
+95,Kadın,22,4.0,İnstagram,Kişisel Gelişim,Hayır,4,Evet,Nadiren,Kaygı
+96,Kadın,21,2.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Diğer
+97,Kadın,21,2.0,Twitter,Eğlence,Hayır,4,Evet,Hiç,Diğer
+98,Kadın,22,3.5,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Mutlu
+99,Kadın,19,3.0,İnstagram,Eğlence,Evet,5,Hayır,Nadiren,Kaygı
+100,Kadın,23,5.0,Diğer,Eğlence,Hayır,6,Evet,Nadiren,Yalnızlık
+101,Kadın,22,3.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Diğer
+102,Kadın,19,5.0,İnstagram,Eğlence,Hayır,3,Hayır,Sık sık,Mutlu
+103,Kadın,22,5.0,İnstagram,Eğlence,Evet,7,Hayır,Nadiren,Diğer
+104,Kadın,22,6.0,İnstagram,Eğlence,Evet,2,Hayır,Nadiren,Diğer
+105,Kadın,20,4.0,İnstagram,Eğlence,Hayır,1,Hayır,Sık sık,Diğer
+106,Kadın,21,6.0,Tiktok,Eğlence,Hayır,7,Evet,Sık sık,Diğer
+107,Kadın,22,2.0,İnstagram,Diğer,Hayır,3,Hayır,Nadiren,Diğer
+108,Kadın,21,4.5,İnstagram,Kişisel Gelişim,Hayır,3,Hayır,Nadiren,Diğer
+109,Kadın,24,3.0,İnstagram,Eğlence,Hayır,2,Evet,Nadiren,Mutlu
+110,Kadın,21,6.5,İnstagram,Eğlence,Evet,4,Evet,Nadiren,Yalnızlık
+111,Kadın,22,3.0,İnstagram,Eğlence,Evet,4,Hayır,Nadiren,Mutlu
+112,Kadın,21,4.0,Twitter,Eğlence,Hayır,4,Evet,Nadiren,Diğer
+113,Kadın,20,4.0,Tiktok,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+114,Kadın,23,3.0,Diğer,Diğer,Evet,2,Evet,Nadiren,Diğer
+115,Kadın,20,6.0,İnstagram,Eğlence,Evet,6,Evet,Nadiren,Kaygı
+116,Kadın,22,4.0,Diğer,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+117,Kadın,20,3.0,Diğer,Eğlence,Hayır,1,Hayır,Nadiren,Öfke
+118,Kadın,21,2.0,İnstagram,Eğlence,Hayır,0,Hayır,Hiç,Mutlu
+119,Kadın,23,4.5,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+120,Kadın,18,7.0,İnstagram,Eğlence,Evet,4,Evet,Nadiren,Kaygı
+121,Kadın,21,3.5,İnstagram,Eğlence,Evet,4,Hayır,Nadiren,Diğer
+122,Kadın,21,3.5,İnstagram,Kişisel Gelişim,Hayır,4,Hayır,Nadiren,Diğer
+123,Kadın,19,6.0,Diğer,Eğlence,Hayır,3,Hayır,Hiç,Mutlu
+124,Kadın,20,2.0,İnstagram,Eğlence,Hayır,2,Evet,Nadiren,Diğer
+125,Kadın,23,4.0,Diğer,Eğlence,Hayır,3,Evet,Nadiren,Diğer
+126,Kadın,21,3.0,İnstagram,Eğlence,Hayır,5,Evet,Nadiren,Mutlu
+127,Kadın,26,5.0,İnstagram,Eğlence,Hayır,5,Hayır,Sık sık,Mutlu
+128,Kadın,19,6.0,Twitter,Eğlence,Hayır,3,Evet,Nadiren,Mutlu
+129,Kadın,23,2.5,Twitter,Haber,Hayır,3,Hayır,Hiç,Diğer
+130,Kadın,20,4.5,İnstagram,Eğlence,Evet,5,Evet,Nadiren,Kaygı
+131,Kadın,21,3.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+132,Kadın,24,3.5,İnstagram,Eğlence,Hayır,4,Hayır,Sık sık,Diğer
+133,Erkek,24,3.0,İnstagram,Kişisel Gelişim,Hayır,3,Hayır,Nadiren,Öfke
+134,Kadın,21,3.0,İnstagram,Eğlence,Hayır,7,Evet,Hiç,Diğer
+135,Kadın,22,4.0,İnstagram,Eğlence,Evet,2,Hayır,Hiç,Diğer
+136,Kadın,22,6.0,Tiktok,Eğlence,Evet,7,Evet,Nadiren,Diğer
+137,Kadın,21,6.0,Diğer,Eğlence,Hayır,3,Evet,Sık sık,Diğer
+138,Kadın,23,14.0,Tiktok,Eğlence,Evet,7,Evet,Sık sık,Öfke
+139,Kadın,22,2.0,İnstagram,Eğlence,Hayır,6,Hayır,Hiç,Diğer
+140,Kadın,20,5.0,İnstagram,Eğlence,Hayır,4,Evet,Nadiren,Mutlu
+141,Kadın,21,5.0,İnstagram,Eğlence,Hayır,4,Evet,Nadiren,Kaygı
+142,Kadın,22,5.0,İnstagram,Eğlence,Evet,2,Hayır,Nadiren,Mutlu
+143,Kadın,23,3.0,İnstagram,Eğlence,Evet,4,Hayır,Nadiren,Diğer
+144,Kadın,21,1.0,Diğer,Eğlence,Hayır,1,Hayır,Hiç,Diğer
+145,Kadın,24,5.5,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Diğer
+146,Kadın,23,8.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Mutlu
+147,Kadın,21,4.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+148,Erkek,24,3.5,Twitter,Eğlence,Hayır,2,Evet,Nadiren,Mutlu
+149,Erkek,21,3.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+150,Erkek,23,4.0,Twitter,Eğlence,Hayır,2,Hayır,Nadiren,Diğer
+151,Kadın,23,2.5,İnstagram,Eğlence,Evet,1,Hayır,Nadiren,Kaygı
+152,Kadın,20,8.0,İnstagram,Diğer,Hayır,4,Hayır,Sık sık,Mutlu
+153,Kadın,22,3.0,İnstagram,Eğlence,Evet,7,Hayır,Hiç,Kaygı
+154,Kadın,22,3.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Diğer
+155,Kadın,23,5.0,Twitter,Eğlence,Hayır,4,Evet,Sık sık,Yalnızlık
+156,Erkek,24,8.0,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Mutlu
+157,Kadın,20,5.0,İnstagram,Eğlence,Evet,1,Hayır,Nadiren,Diğer
+158,Erkek,23,3.0,Twitter,Haber,Hayır,2,Hayır,Nadiren,Öfke
+159,Kadın,24,5.0,Tiktok,Eğlence,Evet,1,Hayır,Sık sık,Mutlu
+160,Erkek,20,5.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+161,Erkek,23,3.5,Twitter,Haber,Hayır,0,Hayır,Nadiren,Öfke
+162,Erkek,20,4.0,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Mutlu
+163,Kadın,22,4.5,İnstagram,Eğlence,Hayır,5,Hayır,Sık sık,Diğer
+164,Kadın,21,2.0,Diğer,Eğlence,Hayır,1,Hayır,Nadiren,Diğer
+165,Erkek,23,5.0,İnstagram,Eğlence,Hayır,3,Evet,Nadiren,Yalnızlık
+166,Kadın,23,3.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Diğer
+167,Kadın,24,5.0,Diğer,Kişisel Gelişim,Hayır,3,Evet,Nadiren,Mutlu
+168,Erkek,21,10.0,İnstagram,Eğlence,Evet,5,Evet,Nadiren,Kaygı
+169,Kadın,18,3.5,İnstagram,Eğlence,Evet,6,Evet,Nadiren,Diğer
+170,Kadın,19,3.0,İnstagram,Eğlence,Hayır,3,Hayır,Sık sık,Diğer
+171,Kadın,23,5.0,İnstagram,Kişisel Gelişim,Evet,3,Hayır,Sık sık,Mutlu
+172,Kadın,25,3.0,İnstagram,Eğlence,Hayır,4,Hayır,Sık sık,Mutlu
+173,Kadın,23,1.0,İnstagram,Eğlence,Hayır,3,Hayır,Nadiren,Diğer
+174,Kadın,21,4.0,Twitter,Eğlence,Hayır,2,Evet,Nadiren,Öfke
+175,Kadın,23,5.0,İnstagram,Eğlence,Hayır,4,Hayır,Nadiren,Diğer
+176,Kadın,22,5.0,Tiktok,Kişisel Gelişim,Evet,2,Hayır,Sık sık,Mutlu
+177,Kadın,23,1.5,İnstagram,Eğlence,Hayır,5,Evet,Sık sık,Diğer
+178,Kadın,21,3.0,İnstagram,Eğlence,Hayır,0,Hayır,Sık sık,Mutlu
+179,Kadın,23,5.0,İnstagram,Haber,Hayır,7,Evet,Nadiren,Kaygı
+180,Kadın,23,5.0,İnstagram,Haber,Hayır,7,Evet,Nadiren,Kaygı
+181,Kadın,22,6.0,İnstagram,Eğlence,Hayır,7,Evet,Nadiren,Mutlu
+182,Kadın,23,5.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+183,Kadın,20,5.0,Tiktok,Eğlence,Hayır,3,Hayır,Sık sık,Diğer
+184,Kadın,24,5.0,Tiktok,Eğlence,Hayır,5,Hayır,Nadiren,Diğer
+185,Kadın,23,5.0,İnstagram,Eğlence,Evet,5,Evet,Sık sık,Mutlu
+186,Erkek,25,2.0,İnstagram,Haber,Hayır,0,Hayır,Hiç,Kaygı
+187,Kadın,23,5.0,İnstagram,Eğlence,Evet,7,Evet,Nadiren,Kaygı
+188,Erkek,24,4.0,İnstagram,Eğlence,Evet,2,Evet,Nadiren,Mutlu
+189,Kadın,23,3.5,İnstagram,Eğlence,Hayır,4,Hayır,Nadiren,Mutlu
+190,Kadın,23,5.0,Twitter,Eğlence,Evet,2,Evet,Sık sık,Kaygı
+191,Erkek,24,13.5,Diğer,Diğer,Evet,7,Evet,Sık sık,Diğer
+192,Erkek,23,3.0,İnstagram,Haber,Hayır,4,Evet,Nadiren,Kaygı
+193,Kadın,21,7.0,Tiktok,Eğlence,Evet,1,Hayır,Sık sık,Mutlu
+194,Kadın,22,5.5,İnstagram,Eğlence,Hayır,2,Hayır,Sık sık,Mutlu
+195,Kadın,23,2.0,İnstagram,Eğlence,Hayır,0,Hayır,Hiç,Mutlu
+196,Kadın,24,5.0,Twitter,Eğlence,Evet,3,Hayır,Sık sık,Mutlu
+197,Kadın,21,5.0,Tiktok,Eğlence,Evet,2,Hayır,Sık sık,Mutlu
+198,Kadın,19,5.0,İnstagram,Eğlence,Hayır,7,Evet,Nadiren,Yalnızlık
+199,Kadın,24,5.0,Twitter,Haber,Hayır,0,Hayır,Sık sık,Öfke
+200,Kadın,24,3.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+201,Erkek,21,5.0,Twitter,Haber,Hayır,1,Hayır,Hiç,Kaygı
+202,Kadın,24,3.0,Tiktok,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+203,Kadın,24,2.0,İnstagram,Eğlence,Hayır,3,Hayır,Hiç,Kaygı
+204,Erkek,24,4.0,Twitter,Haber,Hayır,3,Hayır,Nadiren,Öfke
+205,Erkek,24,3.5,İnstagram,Eğlence,Evet,3,Hayır,Hiç,Mutlu
+206,Kadın,20,3.5,Twitter,Diğer,Evet,5,Hayır,Nadiren,Diğer
+207,Erkek,22,6.0,Twitter,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+208,Erkek,26,1.0,İnstagram,Eğlence,Hayır,7,Evet,Nadiren,Yalnızlık
+209,Erkek,26,4.0,Twitter,Haber,Hayır,0,Hayır,Nadiren,Öfke
+210,Erkek,21,3.0,İnstagram,Diğer,Hayır,0,Hayır,Nadiren,Diğer
+211,Kadın,24,5.5,İnstagram,Eğlence,Evet,1,Evet,Sık sık,Diğer
+212,Erkek,21,3.0,İnstagram,Eğlence,Evet,5,Evet,Sık sık,Mutlu
+213,Kadın,20,3.0,İnstagram,Eğlence,Evet,6,Evet,Hiç,Yalnızlık
+214,Erkek,25,8.0,İnstagram,Eğlence,Hayır,4,Evet,Nadiren,Mutlu
+215,Erkek,18,3.0,İnstagram,Eğlence,Hayır,1,Hayır,Nadiren,Mutlu
+216,Kadın,18,4.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Mutlu
+217,Erkek,21,1.0,İnstagram,Eğlence,Evet,2,Evet,Nadiren,Mutlu
+218,Kadın,20,3.0,Diğer,Diğer,Evet,7,Evet,Nadiren,Yalnızlık
+219,Erkek,23,2.0,İnstagram,Haber,Hayır,2,Hayır,Hiç,Diğer
+220,Erkek,25,3.0,İnstagram,Eğlence,Hayır,5,Hayır,Nadiren,Yalnızlık
+221,Kadın,19,1.0,Tiktok,Eğlence,Hayır,1,Hayır,Sık sık,Mutlu
+222,Erkek,22,0.5,İnstagram,Eğlence,Hayır,0,Hayır,Nadiren,Diğer
+223,Kadın,21,2.0,İnstagram,Eğlence,Hayır,2,Hayır,Nadiren,Diğer
+224,Erkek,20,3.5,Diğer,Haber,Hayır,3,Hayır,Hiç,Kaygı
+225,Erkek,26,10.0,Diğer,Eğitim,Evet,7,Evet,Sık sık,Kaygı
+226,Erkek,20,4.0,Diğer,Eğlence,Hayır,0,Hayır,Hiç,Mutlu
+227,Erkek,21,2.0,İnstagram,Haber,Evet,3,Hayır,Nadiren,Diğer
+228,Kadın,21,3.0,İnstagram,Haber,Hayır,3,Evet,Nadiren,Diğer
+229,Kadın,20,3.0,İnstagram,Eğlence,Evet,3,Hayır,Nadiren,Kaygı
