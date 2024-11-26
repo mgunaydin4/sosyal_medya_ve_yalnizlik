@@ -2,7 +2,6 @@ pandas
 matplotlib
 scikit-learn
 joblib
-warnings
 lightgbm
 seaborn
 streamlit
