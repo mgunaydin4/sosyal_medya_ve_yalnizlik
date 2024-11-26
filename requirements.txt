@@ -1,6 +1,6 @@
 pandas
 matplotlib
-sklearn
+scikit-learn
 joblib
 warnings
 lightgbm
